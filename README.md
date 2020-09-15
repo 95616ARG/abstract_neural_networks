@@ -13,7 +13,7 @@ python3 -m pip install -r requirements.txt
 
 #### Usage
 The file `abstract.py` exposes a method `abstract_layer_wise` which corresponds
-to Algorithm 1 in our paper. An example of its uses is provided in the file
+to Algorithm 3 in our paper. An example of its uses is provided in the file
 `test_abstract_intervals.py`, corresponding to Example 6 (Section 5.1) in our
 paper. To run it, and any other test cases, you can use:
 ```bash
